@@ -4,9 +4,6 @@ module.exports = {
 		"<rootDir>/node_modules/",
 	],
 	testRegex: [
-		"(/__tests__/.*|(\\.|/)(test|spec))\\.ts$",
-	],
-	transform: {
-		"^.+\\.ts?$": "ts-jest",
-	}
+		"(/__tests__/.*|(\\.|/)(test|spec))\\.js$",
+	]
 };
