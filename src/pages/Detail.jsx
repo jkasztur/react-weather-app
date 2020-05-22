@@ -1,5 +1,7 @@
 import React from 'react';
 
 export function Detail() {
-	return <h2>Detail page</h2> 
+	return <h2>Detail page</h2>
 }
+
+export default Detail
