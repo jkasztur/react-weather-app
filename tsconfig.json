@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "outDir": "./build/",
+    "sourceMap": true,
+    "module": "es6",
+    "jsx": "react",
+    "target": "es5",
+    "esModuleInterop": true
+  },
+  "include": ["./src/"]
+}
